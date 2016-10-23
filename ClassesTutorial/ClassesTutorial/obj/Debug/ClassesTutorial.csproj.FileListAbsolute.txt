@@ -1,0 +1,6 @@
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+F:\Facultate\EB sem1\MVC\UbbCourse1\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
